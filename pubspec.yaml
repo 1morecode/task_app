@@ -37,6 +37,7 @@ dependencies:
   flutter_chips_input: ^1.9.4
   image_picker: ^0.6.7+7
   firebase_storage: ^4.0.0
+  ext_video_player: ^0.0.3
 
 dev_dependencies:
   flutter_test:
